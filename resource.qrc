@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>res/gif/3.gif</file>
+        <file>res/png/bar_open.png</file>
+        <file>res/png/bar_pas.png</file>
+        <file>res/png/info.png</file>
+        <file>res/png/exit_open1.png</file>
+        <file>res/png/exit_pas1.png</file>
+        <file>res/png/randomA.png</file>
+        <file>res/png/randomA_B.png</file>
+        <file>res/png/randomB.png</file>
+        <file>res/png/randomB_pres.png</file>
+        <file>res/png/randomA_B_pres.png</file>
+        <file>res/png/randomA_pres.png</file>
+        <file>res/png/main_input.png</file>
+        <file>res/png/Funk1.png</file>
+        <file>res/png/Funk1_hov.png</file>
+        <file>res/png/Funk2.png</file>
+        <file>res/png/Funk1_act.png</file>
+        <file>res/png/Funk3.png</file>
+        <file>res/png/Funk3_act.png</file>
+        <file>res/png/Funk3_hov.png</file>
+        <file>res/png/Funk4.png</file>
+        <file>res/png/Funk4_act.png</file>
+        <file>res/png/Funk4_hov.png</file>
+        <file>res/png/Funk2_act.png</file>
+        <file>res/png/Funk2_hov.png</file>
+        <file>res/png/Funk5.png</file>
+        <file>res/png/Funk5_act.png</file>
+        <file>res/png/Funk5_hov.png</file>
+        <file>res/png/Funk6.png</file>
+        <file>res/png/Funk6_act.png</file>
+        <file>res/png/Funk6_hov.png</file>
+        <file>res/sound/Black_White.wav</file>
+        <file>res/sound/random.wav</file>
+        <file>res/sound/you.wav</file>
+        <file>res/sound/clicks.wav</file>
+    </qresource>
+</RCC>
